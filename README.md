@@ -1,3 +1,4 @@
+原项目是https://github.com/ops-coffee/domain-cert-manager.git，我只是优化一下能windows系统docker正常使用并去除了MFA
 # 🛡️ 域名证书管理系统  
 企业级域名 & SSL/TLS 证书全生命周期管理平台。  
 项目提供营销站点（`index.html`）、Docker 化的后端栈以及一键初始化脚本，可快速完成私有化部署与演示。
@@ -114,3 +115,4 @@ Issue / PR：欢迎提交需求与 Bug
 技术交流：ops_coffee@163.com / 微信 DREAM-FIRE-2024
 
 如果觉得本项目有帮助，欢迎点个 ⭐️
+
